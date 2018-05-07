@@ -1,0 +1,8 @@
+classes
+/target/m2e-wtp/web-resources/META-INF
+/target/test-classes/wang/moshu
+/.settings
+/.classpath
+/.project
+/target/
+bin
